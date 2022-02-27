@@ -6,4 +6,4 @@
 
 This project is my submission for RevUC 2022.
 
-The .apk file is stored under /build/app/outputs/flutter-apk/app-release.apk
+You can use the app-release.apk file to access the app on your Android phone.
