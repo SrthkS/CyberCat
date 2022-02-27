@@ -1,6 +1,6 @@
 # CyberCat
 
-##An app to learn about various encryption techniques used by companies today!
+## An app to learn about various encryption techniques used by companies today!
 
 ## Getting Started
 
